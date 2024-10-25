@@ -13,8 +13,9 @@ class Config:
             cls._instance.default_path = ".\\data"
             cls._instance.default_audio_ext = ".mp4"  #  ".m4a"
             cls._instance.default_txt_ext = ".txt"
-            cls._instance.api_key = "your-api-key"
-            cls._instance.openAi_key =  "api-key....cls."
+            cls._instance.api_key = "your-api-key..."
+            cls._instance.openAi_key =  "nada"
+
         return cls._instance
 
 

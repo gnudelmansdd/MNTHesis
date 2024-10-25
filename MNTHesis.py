@@ -11,15 +11,11 @@ import os
 import json 
 import re
 import json
-from google.cloud import speech
+#from google.cloud import speech
 
 from subject import Subject
 #from google.cloud.speech import enums, types
 #from google.cloud.speech import types
-
-from colorama import Fore, Style, init
-## init colorama
-init(autoreset=True)
 
 from cmdProcessor import CmdProcessor
 
