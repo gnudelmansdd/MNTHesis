@@ -14,7 +14,7 @@ class Config:
             cls._instance.default_audio_ext = ".mp4"  #  ".m4a" 
             cls._instance.default_txt_ext = ".txt"
             cls._instance.api_key = "your-api-key..."
-            cls._instance.openAi_key =  "nada1111222ggg"
+            cls._instance.openAi_key =  "nada111122hhhh"
 
         return cls._instance
 
